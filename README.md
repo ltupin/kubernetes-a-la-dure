@@ -8,9 +8,9 @@ De nombreux projets permettent d'installer Kubernetes de facon automatisée. Par
 
 |Outil|Plateforme|
 |-----|----------|
-|[Kubespray](https://github.com/kubernetes-incubator/kubespray)|AWS, GCP, Azure, OpenStack, Baremetal, VMware|
+|[Kubespray (Ansible)](https://github.com/kubernetes-incubator/kubespray)|AWS, GCP, Azure, OpenStack, Baremetal, VMware|
 |[Kops](https://github.com/kubernetes/kops)|AWS, GCP, VMware|
-|[Typhoon](https://typhoon.psdn.io/)|AWS, GCP, DO, BareMetal|
+|[Typhoon](https://typhoon.psdn.io/)|AWS, Azure, GCP, DO, BareMetal|
 
 
 > Ce tutorial ne doit pas être considéré comme "production ready" et il se peut qu'il ne soit pas supporté par la communauté mais ne vous arrètez pas à cela. Rien ne doit vous empècher d'apprendre !
